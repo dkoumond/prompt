@@ -1,0 +1,13 @@
+.tweet{
+  border-radius:8px;
+  border:"2px solid green";
+  background-color:cornflowerblue;
+  margin:8px;
+  color:white;
+  box-sizing:border-box;
+  padding:8px;
+}
+
+img{
+  width:100px;
+}
